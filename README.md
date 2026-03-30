@@ -7,7 +7,7 @@ By default this plugin override builtin `<code>` and `<file>` tags. You can chan
 1. Log in as admin in your instance of DokuWiki 
 2. Go to **Extension Manager**
 3. On **Manual Install** tab  in field **Install from URL** paste this link:  
-`https://github.com/amnemonic/dokuprism/archive/master.zip`
+`https://github.com/hyperreal64/dokuprism/archive/master.zip`
 4. Press **Install** button
 
 # Links
